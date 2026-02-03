@@ -1,1 +1,1 @@
-Developed an interactive Power BI dashboard to analyze IPL match data, including team performance, batting, and bowling statistics. Used DAX measures, data modeling, and visualizations to track total runs, wickets, strike rate, economy, and season trends. Implemented slicers, filters, and charts for team comparison, player insights, and venue analysis to support data-driven decision making.# IPL-Dashboard
+IPL Analytics Dashboard built in Power BI to visualize team performance, player stats, and match trends using DAX, data modeling, and interactive visuals.
